@@ -4,7 +4,7 @@
 
 **User Story:**
 
-As a customer, I want to browse party backdrop templates and decoration services, so that I can find designs that match my preferred party theme.
+As a customer, I want to browse party backdrop templates and decoration services, so that I can find designs that match my preferred party theme. (FR1)
 
 **Acceptance Criteria:**
 - The system displays available backdrop templates and decoration services with their names, images, and descriptions.
@@ -14,7 +14,7 @@ As a customer, I want to browse party backdrop templates and decoration services
 
 **User Story:**
 
-As a customer, I want to request customised backdrop designs and submit booking requests, so that I can arrange decorations that suit my needs.
+As a customer, I want to request customised backdrop designs and submit booking requests, so that I can arrange decorations that suit my needs. (FR2, FR3)
 
 **Acceptance Criteria:**
 - The system allows customers to submit a customised backdrop request by providing their design preferences and event details.
@@ -24,7 +24,7 @@ As a customer, I want to request customised backdrop designs and submit booking 
 
 **User Story:**
 
-As a customer, I want to view collaborating vendors and their services, so that I can explore different options for my party.
+As a customer, I want to view collaborating vendors and their services, so that I can explore different options for my party. (FR4)
 
 **Acceptance Criteria:**
 - The system displays a list of collaborating vendors and the services they offer.
@@ -34,7 +34,7 @@ As a customer, I want to view collaborating vendors and their services, so that 
 
 **User Story:**
 
-As an administrator, I want to manage backdrop templates, decoration services, and vendor information, so that the platform displays up-to-date information.
+As an administrator, I want to manage backdrop templates, decoration services, and vendor information, so that the platform displays up-to-date information. (FR5)
 
 **Acceptance Criteria:**
 - The system allows authorised administrators to add, update, and remove backdrop templates and decoration service information.
@@ -44,7 +44,7 @@ As an administrator, I want to manage backdrop templates, decoration services, a
 
 **User Story:**
 
-As an administrator, I want to review customer booking requests, so that I can manage bookings and coordinate decoration services.
+As an administrator, I want to review customer booking requests, so that I can manage bookings and coordinate decoration services. (FR6)
 
 **Acceptance Criteria:**
 - The system displays submitted customer booking requests and their relevant event details.
