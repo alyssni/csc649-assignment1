@@ -1,15 +1,16 @@
 # Requirements
 
-## Functional requirements 
+## Functional Requirements
 
-1. The system shall allow customers to browse available party backdrop templates and decoration services.
-2. The system shall allow customers to submit requests for customised backdrop designs.
-3. The system shall allow customers to view details of collaborating vendors and the services they offer.
-4. The system shall allow customers to make booking requests for selected decoration services.
-5. The system shall allow administrators to manage backdrop templates, decoration services, vendor information, and customer booking requests.
+- **FR1:** The system shall display available party backdrop templates and decoration services.
+- **FR2:** The system shall allow customers to submit customised backdrop design requests.
+- **FR3:** The system shall allow customers to submit booking requests.
+- **FR4:** The system shall display collaborating vendors and their services.
+- **FR5:** The system shall allow administrators to add, update, and remove backdrop templates, decoration services, and vendor information.
+- **FR6:** The system shall allow administrators to review booking requests and update their status.
 
-## Non-functional requirements
+## Non-Functional Requirements
 
-1. The system shall load the main page and display available decoration services within 3 seconds under normal network conditions.
-2. The system shall provide a user-friendly interface that allows customers to navigate the main features without technical knowledge.
-3. The system shall protect customer information and restrict access to administrative functions to authorised users.
+- **NFR1:** The main page and service listings should load within 3 seconds under normal network conditions.
+- **NFR2:** The interface should be easy to navigate for users without technical knowledge.
+- **NFR3:** The system shall restrict administrative functions to authorised users and protect customer information.
