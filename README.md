@@ -26,4 +26,4 @@ Planning and documentation in progress. System implementation is
 not required for this assignment.
 
 ## Author
-[Your name]
+Alyssa Hani
