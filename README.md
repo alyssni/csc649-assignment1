@@ -7,7 +7,7 @@ This repository contains the problem formulation, requirements and
 technology brief for CSC649 Assignment 1.
 
 ## Problem Statement
-Based on my personal observations, students using a shared parking area at UiTM Shah Alam experience difficulty contacting drivers of double-parked vehicles that block their cars when no phone number is displayed on the dashboard. Moreover, the parking area serves students from five nearby faculties, making it difficult to identify and locate the responsible driver through personal connections alone. I have observed incidents involving my friends in which the absence of contact details caused frustration among the students involved. Without a direct way to contact the responsible driver, affected students may have to wait until the vehicle is moved before they can leave. This uncertainty wastes their time and can disrupt their planned activities.
+Based on my observations, students using a shared car park at UiTM Shah Alam struggle to contact drivers of double-parked vehicles that block their cars when the dashboard doesn't display a phone number. Moreover, the parking area serves students from five nearby faculties, making it difficult to locate the responsible driver through personal connections only. I have observed incidents involving my friends where missing contact details caused frustration among the students involved. Without a direct way to contact the responsible driver, affected students may have to wait until the car’s owner arrives and moves the car before they can leave. This uncertainty wastes their time and can disrupt their plans.
 
 The proposed system focuses on improving communication during these
 incidents.
