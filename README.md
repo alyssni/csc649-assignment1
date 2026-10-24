@@ -1,21 +1,29 @@
-# Party Poppers
+# Campus Double-Parking Communication Assistance
 
-Party Poppers is a party planning and booking system that helps customers explore party decoration services, customise backdrops, and find suitable vendors in one platform.
+A proposed computer vision-assisted app to help university students contact drivers whose vehicles are blocking their cars.
+
+## About This Project
+This repository contains the problem formulation, requirements and
+technology brief for CSC649 Assignment 1.
 
 ## Problem Statement
+Students struggle to contact drivers of double-parked vehicles blocking
+their cars when no contact number is displayed. This can delay their
+departure and cause frustration.
 
-Planning a party can be time-consuming for customers who want decorations that match their preferred themes and budgets. Finding suitable decoration services, comparing designs, and coordinating with different vendors can make the process more complicated. Customers may benefit from a centralised platform where they can explore ready-made backdrop templates, request customised designs, and discover services from multiple vendors. Party Poppers aims to simplify party planning by bringing these options together in one convenient platform.
+The proposed system focuses on improving communication during these
+incidents.
 
-## Documents
+## Chosen Specialized Technology
+Computer Vision, including vehicle detection and licence plate recognition.
 
-- [Problem Statement](docs/problem-statement.md)
-- [Requirements](docs/requirements.md)
-- [User Stories](docs/user-stories.md)
+## Project Documents
+The problem statement, requirements and user stories will be added
+to the docs folder as the assignment progresses.
 
 ## Status
-
-Planning (CSC649, Week 2)
+Planning and documentation in progress. System implementation is
+not required for this assignment.
 
 ## Author
-
-Alyssa Hani
+[Your name]
