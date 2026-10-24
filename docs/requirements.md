@@ -1,6 +1,6 @@
-# 3.0 Requirements
+# Requirements
 
-## 3.1 Functional Requirements
+## Functional Requirements
 
 | No. | Functional Requirement |
 | --- | --- |
@@ -15,7 +15,7 @@
 | FR9 | The system shall inform the requesting student when no registered account can be matched to the identified blocking vehicle. |
 
 
-## 3.2 Non-Functional Requirements
+## Non-Functional Requirements
 
 | No. | Type | Non-Functional Requirement |
 | --- | --- | --- |
