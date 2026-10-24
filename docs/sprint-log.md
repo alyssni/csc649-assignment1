@@ -1,25 +1,25 @@
-# Sprint Log
+## Sprint 1 — Week 3: Initial Project
 
-## Sprint 1 (Week 3 lab)
+### Sprint Backlog
 
-### Sprint goal
-[One sentence: what do you want to finish by the end of this lab?]
-
-### Sprint backlog
 | Issue | Task | Status |
-|-------|------|--------|
-| #1 | | To do |
-| #2 | | To do |
-| #3 | | To do |
+| --- | --- | --- |
+| — | Create the GitHub repository | Completed on 13 October |
+| — | Draft the party-planning booking problem statement | Completed during 13–14 October |
+| — | Draft requirements and user stories for the initial project | Completed during 13–14 October |
 
-### Daily standup notes
-- Standup 1: [what I will do now / what could block me]
-- Standup 2: [what I did / what is next / any blocker]
+## Week 4 — Topic Change and Assignment Completion
 
-### Sprint review
-[What did you finish? What did you show a classmate?]
+### Sprint Backlog
 
-### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+| Issue | Task | Status |
+| --- | --- | --- |
+| — | Select the double-parking communication problem | Completed on 24 October |
+| — | Draft the revised problem statement, users and scope | Completed on 24 October |
+| — | Draft revised requirements and user stories | Completed on 24 October |
+| — | Research computer vision and verify sources | To do |
+| — | Complete Section 4 and the original diagram | To do |
+| — | Finalise references and check the report | To do |
+| — | Complete the KBG test and GenAI declaration | To do |
+| — | Update repository documentation and screenshots | To do |
+| — | Export, check and submit the PDF and repository link | To do |
